@@ -28,6 +28,7 @@
     );
     var imagenes5=new Array(
         ['images/5_1.png'],
+        ['images/5_2.png'],
         ['images/5_2.png']
     );
     var imagenes6=new Array(
