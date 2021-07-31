@@ -4,7 +4,7 @@
 
 ▢ Está desarrollado con codigos de html, css y js. Cuenta con funcionalidades adicionales usando JQuery. 
 
-▢ Ademas cuenta con un diseño responsive en base al uso de @media query css. Como ejemplo puede ver el siguiente código:
+▢ Presenta un diseño responsive en base al uso de @media query css. Como ejemplo puede ver el siguiente código:
 
 ```
 /*Start media queries*/
@@ -23,6 +23,23 @@
         flex-direction: column;
     }
  }
+```
+▢ Y como punto extra que suma al proyecto son las animaciones, usando @keyframes css. Como por ejemplo:
+
+```
+/*Start animations*/
+@keyframes pulse{
+    0%{
+        box-shadow: 0 0 0 0 rgba(109, 0, 25,0.99);
+    }
+    70%{
+        box-shadow: 0 0 0 2rem rgba(109, 0, 25,0);
+    }
+    100%{
+        box-shadow: 0 0 0 0 rgba(109, 0, 25,0);
+    }
+}
+/*End animations*/
 ```
 
 ▢ Puedes usarlo como plantilla, simplemente lo descargas, modificas el contenido necesario y ejecutas haciendo click en el index.html
