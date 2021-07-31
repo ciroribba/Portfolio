@@ -41,6 +41,7 @@
 }
 /*End animations*/
 ```
+▢ En cuanto a contenido, verás que hay varios link que te dirijen a redes sociales, credenciales o certificados en línea. Tambien hay un apartado que muestra y oculta logos de las tecnologias que manejo, y una galeria de proyectos con sus rutas incrustadas.
 
 ▢ Puedes usarlo como plantilla, simplemente lo descargas, modificas el contenido necesario y ejecutas haciendo click en el index.html
 
