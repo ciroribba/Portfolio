@@ -2,7 +2,7 @@
 
 ▢ Este es un ejemplo de portfolio para un desarrollador web
 
-▢ Está desarrollado con codigos de html, css y js. Cuenta con funcionalidades adicionales usando JQuery. 
+▢ Fue elaborado con código html, css y js. Cuenta con funcionalidades adicionales usando JQuery. 
 
 ▢ Presenta un diseño responsive en base al uso de @media query css. Como ejemplo puede ver el siguiente código:
 
